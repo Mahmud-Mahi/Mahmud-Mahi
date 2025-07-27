@@ -1,7 +1,6 @@
 <img align="center" style="width: 100vh; height: 20vh;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tmcTZtcmhqZWJ6cnhkMjVxYThzNWxoa2RjaWNsY2p2Y2ZkODBieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rZeHEjJMXtmDJFa0bj/giphy.gif">
 <h1 align="center">Hello, I'm Mahmud Mahi</h1>
 <h3 align="center">Developer in progress</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZxaTNzbHN5cnVrYXNpZGZmcXZrb3R6bnppeGZ6b3o2dHQyZnV1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif">
 
 - 🔭 I’m currently working on **Linux Custom toools & tweaks**
 
@@ -32,10 +31,11 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.xfce-look.org/browse/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Xfce_logo.svg/120px-Xfce_logo.svg.png" alt="XFCE" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
- </p>
+ </p> <br>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmud-mahi&show_icons=true&locale=en&layout=compact" alt="mahmud-mahi" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmud-mahi&show_icons=true&locale=en" alt="mahmud-mahi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud-mahi&" alt="mahmud-mahi" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmud-mahi&show_icons=true&locale=en&layout=compact" alt="mahmud-mahi" /></p>
