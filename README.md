@@ -37,5 +37,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmud-mahi&theme=dark&show_icons=true&locale=en" alt="mahmud-mahi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud-mahi&theme=dark" alt="mahmud-mahi" /></p>
+
 
